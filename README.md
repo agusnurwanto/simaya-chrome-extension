@@ -25,7 +25,7 @@ Semoga bermanfaat
 - Melengkapi video tutorial di youtube
 
 ### Video tutorial
-- ...
+- Admin Unit SiMaya - Tutorial Admin unit Aplikasi SiMaya Palangka Raya https://www.youtube.com/watch?v=9HZOgAjhHfM
 
 ### Istilah di Aplikasi SIMAYA
 - ...
