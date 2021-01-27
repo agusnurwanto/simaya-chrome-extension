@@ -26,6 +26,17 @@ Semoga bermanfaat
 
 ### Video tutorial
 - Admin Unit SiMaya - Tutorial Admin unit Aplikasi SiMaya Palangka Raya https://www.youtube.com/watch?v=9HZOgAjhHfM
+- Video Tutorial Surat Keluar New siMAYA Sumbar https://www.youtube.com/watch?v=jPir9SxLqIw
+- Tutorial Fitur Surat Izin Aplikasi siMAYA https://www.youtube.com/watch?v=vQEXHl_34PY
+- Tutorial siMAYA untuk Admin Unit - Pengenalan Tugas Admin Unit https://youtu.be/zy2lk_1kayA
+- Tutorial siMAYA untuk Admin Unit - membuat instansi, jabatan, pengguna atau user https://www.youtube.com/watch?v=fE6Y1uylR68
+- Video Tutorial siMAYA untuk TU - Cara Membuat Surat Masuk (Part 1) - Disposisi Surat https://www.youtube.com/watch?v=IgYWa-JHaSE
+- Video Tutorial siMAYA untuk TU - Cara Membuat Surat Masuk (Part 2) - terima disposisi oleh KASI dari kabid dan disposisikan ke tim https://www.youtube.com/watch?v=aqzH_uE6neA
+- Video Tutorial siMAYA untuk TU - Cara Membuat Surat Keluar Manual https://www.youtube.com/watch?v=52FqWEq1JMA
+- Tutorial APlikasi SiMAYA - Diskominfo Musi Rawas https://www.youtube.com/watch?v=wSxBb8NYq_M
+- aplikasi simaya user pimpinan - periksa surat oleh pimpinan https://www.youtube.com/watch?v=dSKZgydsUd0
 
 ### Istilah di Aplikasi SIMAYA
 - ...
+
+### Helpdesk http://helpdesk.layanan.go.id/
